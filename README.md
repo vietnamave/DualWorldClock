@@ -1,0 +1,2 @@
+# DualWorldClock
+タイムゾーンを選べるWindows用の無料デスクトップ時計
